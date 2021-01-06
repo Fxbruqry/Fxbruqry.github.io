@@ -8,27 +8,36 @@
             .mydiv{
                 border: 5px outset rgb(0, 67, 105);
               background-color:royalblue ;
-              padding:20px ;
-              Width: 25% ; 
+              padding:20px ; 
               margin-right: 10px;
-              Float left;
               text-align: start;
             }
             h1{
                 border: 5px outset rgb(0, 67, 105);
               background-color:royalblue ;
-              padding:20px ;
-              Width: 25% ; 
+              padding:20px ; 
               margin-right: 10px;
-              Float left;
               text-align: start;
             }
 			h3{
 				border:5px outset rgb(0,67,105);
 				background-color: royalblue;
-				padding 20px ;
-				width: 20% ;
+				padding: 20px ;
 				margin-right: 10px;
-				float left;
 				text-align: start;
-			}
+      }
+      footer{
+        background-color: royalblue;
+        height: 200px;
+        width: 100%;
+        text-align: center;
+        padding-top: 20px;
+      }
+      a{
+        color: black;
+      }
+      .grid-container{
+        display: grid;
+        grid-template-columns: auto auto auto;
+      }
+      
