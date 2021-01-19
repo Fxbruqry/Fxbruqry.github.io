@@ -1,43 +1,64 @@
 @charset "utf-8";
 /* CSS Document */
 
- body{
-                background-color: #708090;
-                color: black;
+        body{
+                background-image: url("pexels-photo-4173624.jpg");
+                background-attachment: fixed;
+                background-size: cover;
+                color:white;
             }
             .mydiv{
-                border: 5px outset rgb(0, 67, 105);
-              background-color:royalblue ;
+                border: 5px outset black;
+              background-color:gray ;
               padding:20px ; 
+              margin-top: 20px;
               margin-right: 10px;
               text-align: start;
             }
             h1{
-                border: 5px outset rgb(0, 67, 105);
-              background-color:royalblue ;
+                border: 5px outset black;
+              background-color:gray ;
               padding:20px ; 
               margin-right: 10px;
               text-align: start;
             }
 			h3{
-				border:5px outset rgb(0,67,105);
-				background-color: royalblue;
+				border:5px outset black;
+				background-color: gray;
 				padding: 20px ;
 				margin-right: 10px;
 				text-align: start;
       }
       footer{
-        background-color: royalblue;
+        background-color: gray;
+        border: 5px outset black;
+        color:white;
         height: 200px;
         width: 100%;
         text-align: center;
         padding-top: 20px;
       }
       a{
-        color: black;
+        color: white;
       }
       .grid-container{
         display: grid;
-        grid-template-columns: auto auto auto;
+        grid-template-columns: auto auto;
+        padding: 20px;
       }
+      .topnav{
+        background-color: black;
+      }
+      /* Style the links inside the navigation bar */
+      .topnav a {
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      .topnav a:hover {
+    background-color: gray;
+    color: black;
+  }
       

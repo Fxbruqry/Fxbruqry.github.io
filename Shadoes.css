@@ -1,75 +1,135 @@
 h1{
-    border: 5px outset rgb(0, 67, 105);
-    background-color: #b76e79;
-    color: black;
+    border: 5px outset black;
+    background-color: gray;
+    color: white;
     padding:20px ; 
     margin-right: 10px;
     text-align: center;
 }
-a{
+body{
+    background-color: url("pexels-photo-4173624.jpg");
     color: black;
+}
+a{
+    color: white;
   }
   .grid-container{
     display: grid;
     grid-template-columns: auto auto auto;
   }
   #bilde1{
-      width: 450px;
       box-shadow:blueviolet 50px 20px 50px;
       margin-left: 100px;
       margin-bottom: 100px;
   }
   #bilde2{
-    width: 450px;
     box-shadow:green 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde3{
-    width: 450px;
     box-shadow:red 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde4{
-    width: 450px;
     box-shadow:blue 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde5{
-    width: 450px;
     box-shadow:magenta 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde6{
-    width: 450px;
     box-shadow:yellow 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde7{
-    width: 450px;
     box-shadow:turquoise 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde8{
-    width: 450px;
     box-shadow:pink 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde9{
-    width: 450px;
     box-shadow:orange 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
 #bilde10{
-    width: 450px;
     box-shadow:plum 50px 20px 50px;
     margin-left: 100px;
     margin-bottom: 100px;
 }
+#bilde11{
+    box-shadow:greenyellow 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+#bilde12{
+    box-shadow:cornflowerblue 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+#bilde13{
+    box-shadow: darkmagenta 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+#bilde14{
+    box-shadow: deeppink 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+#bilde15{
+    box-shadow: gold 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+#bilde16{
+    box-shadow: indigo 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.topnav{
+    background-color: black;
+  }
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  img{
+      width: 250px;
+      height: 250px;
+  }
+  footer{
+    background-color: gray;
+    border: 5px outset black;
+    color:white;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+  }
+  body{
+    background-image: url("pexels-photo-4173624.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:white;
+}
+.topnav a:hover {
+    background-color: gray;
+    color: black;
+  }
+  
