@@ -117,3 +117,34 @@
     height: 300px;
     width: 300px;
   }
+  #header{
+   
+  }
+  #fname{
+    width: 15cm;
+
+  }
+  #lname{
+    width: 15cm;
+  }
+  #bdate{
+  
+  }
+  #ename{
+    width: 15cm;
+  }
+  #mname{
+    width: 15cm;
+    height: 5cm;
+  }
+  .takk{
+    text-align: center;
+    font-size: 50px;
+  }
+  #thums{
+    box-shadow: deeppink 50px 20px 50px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    height: 400px;
+    width: 400px;
+  }

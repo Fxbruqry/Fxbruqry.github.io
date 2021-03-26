@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="gangster.css">
+<title>Endre profil</title>
+    <link rel="icon" href="monogram.JPG" type="image/png" sizes="16x16">
+</head>
+<body>
+    <div class="topnav">
+        <a class="active" href="index.html">Heim</a>
+        <a href="Shadow.html">Cute Ducks</a>
+        <a href="Konseptutvikling og programmerin.html">Konseptutvikling</a>
+        <a href="Produksjon og historieforteljing.html">Produksjon</a>
+        <a href="Teknologiforståelse.html">Teknologiforståelse</a>
+        <a href="Oversikt.html">Oversikt</a>
+        <a href="Kontakt meg.html">Kontakt meg</a>
+      </div>
+<h1>Endre profil</h1>
+<form>
+    <label>Fornavn: </label><br>
+    <input type="text" id="fname" name="fname"><br><br>
+    <label>Etternavn: </label><br>
+    <input type="text" id="lname" name="lname"><br><br>
+    <label>Visningsnavn: </label><br>
+    <input type="text" id="vname" name="vname"><br><br>
+    <label>Fødselsdato: </label><br>
+    <input type="date" id="bdate" name="bdate"><br>
+    <p>Eksempel; 27.02.04</p> <br>
+    <label>Skriftfarge: </label><br>
+    <select name="fcolor" id="fcolor">
+        <option value="blue">Blå</option>
+        <option value="green">Grønn</option>
+        <option value="yellow">Gul</option>
+        <option value="red">Rød</option>
+        <option value="pink">Pink</option>
+        <option value="black">Svart</option>
+        <option value="purple">Lilla</option>
+    </select><br><br>
+    <input type="button" onclick="changeColor()" value="Endre skriftfarge"> <br><br>
+
+<label>Bakgrunnsfarge: </label><br>
+<select name="fcolor" id="bcolor">
+        <option value="blue">Blå</option>
+        <option value="green">Grønn</option>
+        <option value="yellow">Gul</option>
+        <option value="red">Rød</option>
+        <option value="pink">Pink</option>
+        <option value="black">Svart</option>
+        <option value="purple">Lilla</option>
+    </select><br><br>
+    <input type="button" onclick="changeBackgroundColor()" value="Endre bakgrunnsfarge"> <br><br>
+</form>
+<script src="java.js"></script>
+</body>
+<footer>
+    <p>&#169;2020 Author: May Linn Aga</p>
+    <p><a href="mailto:e-mayaga@iskule.no">e-mayaga@iskule.no</a></p>
+</footer>
+</html>
