@@ -8,8 +8,10 @@ h1{
 }
 body{
     background-color: url(".../resources/images/pexels-photo-4173624.jpg");
-    color: black;
-}
+    background-attachment: fixed;
+    background-size: cover;
+    color:white;
+  }
 a{
     color: white;
   }
