@@ -10,7 +10,7 @@ body{
     background-color: url(".../resources/images/pexels-photo-4173624.jpg");
     background-attachment: fixed;
     background-size: cover;
-    color:white;
+    color:black;
   }
 a{
     color: white;
@@ -123,13 +123,6 @@ a{
     text-align: center;
     padding-top: 20px;
   }
-  body{
-    background-image: url("/resources/images/pexels-photo-4173624.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    color:white;
-}
 .topnav a:hover {
     background-color: gray;
     color: black;
