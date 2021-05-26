@@ -2,10 +2,10 @@
 /* CSS Document */
 
       body{
-         background-color: url(".../resources/images/pexels-photo-4173624.jpg");
+         background-color: url("/resources/images/1258686.jpg");
          background-attachment: fixed;
          background-size: cover;
-         color:black;
+         color:white;
        }
       .mydiv{
          border: 5px outset black;
@@ -14,6 +14,9 @@
          margin-top: 20px;
          margin-right: 10px;
          text-align: start;
+       }
+       a{
+         color: white;
        }
       h1{
          border: 5px outset black;
