@@ -2,7 +2,7 @@
 /* CSS Document */
 
       body{
-         background-image: url("/resources/images/pexels-photo-4173624");
+         background-image: url(".../resources/images/pexels-photo-4173624");
          background-attachment: fixed;
          background-size: cover;
          color:white;
@@ -49,10 +49,7 @@
       .topnav{
          background-color: black;
        }
-       body{
-        background-color: url(".../resources/images/pexels-photo-4173624.jpg");
-        color: black;
-      }
+
        /* Style the links inside the navigation bar */
          .topnav a {
          color: #f2f2f2;
@@ -133,7 +130,7 @@
          width: 300px;
        }
           #header{
-   
+         width: 15cm;
        }
          #fname{
          width: 15cm;
@@ -143,7 +140,7 @@
          width: 15cm;
        }
          #bdate{
-  
+         width: 15cm;
        }
          #ename{
          width: 15cm;
