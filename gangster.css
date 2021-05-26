@@ -61,6 +61,17 @@
     background-color: gray;
     color: black;
   }
+  .dropdown{
+      color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+  }
+  .dropdown :hover{
+    background-color: gray;
+    color: black;
+  }
   #monogram{
     box-shadow: deeppink 50px 20px 50px;
     margin-left: 250px;

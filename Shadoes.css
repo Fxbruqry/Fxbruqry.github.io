@@ -132,4 +132,62 @@ a{
     background-color: gray;
     color: black;
   }
+  #bilde18{
+    box-shadow:blueviolet 50px 20px 50px;
+      margin-left: 100px;
+      margin-bottom: 100px;
+      width: 250px;
+      height: 200px;
+  }
+   #bilde19{
+    box-shadow:green 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+#bilde20{
+    box-shadow:red 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+#bilde21{
+    box-shadow:blue 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+#bilde22{
+    box-shadow:magenta 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+#bilde23{
+    box-shadow:yellow 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+#bilde24{
+    box-shadow:turquoise 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+#bilde25{
+    box-shadow:pink 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 250px;
+    height: 200px;
+}
+
+
   
