@@ -7,7 +7,7 @@ h1{
     text-align: center;
 }
 body{
-    background-color: url("/resources/images/pexels-photo-4173624.jpg");
+    background-color: url(".../resources/images/pexels-photo-4173624.jpg");
     color: black;
 }
 a{
