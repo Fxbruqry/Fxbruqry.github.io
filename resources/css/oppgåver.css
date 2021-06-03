@@ -15,7 +15,7 @@ h2{
     text-align: center;
 }
 body{
-    background-image: url("/resources/images/pexels-photo-4173624.jpg");
+    background-image: url("../images/pexels-photo-4173624.jpg");
     background-attachment: fixed;
     background-size: cover;
     color:white;
@@ -56,23 +56,79 @@ a{
     color: black;
   }
   #bilde26{
-    box-shadow: blue 50px 20px 50px;
-    margin-left: 30px;
-    margin-bottom: 100px;
-    height: 400px;
-    width: 500px;
-    
-  }
-  #bilde27{
     box-shadow: green 50px 20px 50px;
     margin-right: 300px;
     margin-bottom: 100px;
     height: 400px;
     width: 500px;
   }
-
-.grid-container{
+  #bilde27{
+    box-shadow: blue 50px 20px 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    height: 400px;
+    width: 500px;
+    
+  } 
+  .grid-container{
     display: grid;
     grid-template-columns: auto auto;
     padding: 20px;
+  }
+  #bilde28{
+    box-shadow: green 50px 20px 50px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
+  }
+  #bilde29{
+    box-shadow: blue 50px 20px 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
+    
+  }
+  #bilde30{
+    box-shadow: magenta 50px 20px 50px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
+  }
+  #bilde31{
+    box-shadow: yellow 50px 20px 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
+  }
+  #bilde32{
+    box-shadow: cyan 50px 20px 50px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
+  }
+  #bilde33{
+    box-shadow: green 50px 20px 50px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
+  }
+  #bilde34{
+    box-shadow: blue 50px 20px 50px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px; 
+  }
+  #bilde35{
+    box-shadow: magenta 50px 20px 50px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 500px;
   }

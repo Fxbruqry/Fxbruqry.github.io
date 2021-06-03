@@ -15,7 +15,7 @@ h2{
     text-align: center;
 }
 body{
-    background-image: url("/resources/images/pexels-photo-4173624.jpg");
+    background-image: url("../images/pexels-photo-4173624.jpg");
     background-attachment: fixed;
     background-size: cover;
     color:white;
@@ -28,10 +28,10 @@ a{
     grid-template-columns: auto auto auto;
   }
   #bilde1{
-      box-shadow:blueviolet 50px 20px 50px;
-      margin-left: 100px;
-      margin-bottom: 100px;
-  }
+    box-shadow:blueviolet 50px 20px 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
   #bilde2{
     box-shadow:green 50px 20px 50px;
     margin-left: 100px;
