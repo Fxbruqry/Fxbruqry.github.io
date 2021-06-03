@@ -197,6 +197,15 @@ a{
     width: 300px;
     height: 250px;
 }
+h2{
+    border: 5px outset black;
+    background-color: gray;
+    color: white;
+    padding:20px ; 
+    margin-right: 10px;
+    text-align: center;
+}
+
 
 
   
