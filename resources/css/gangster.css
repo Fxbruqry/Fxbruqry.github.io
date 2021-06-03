@@ -2,7 +2,7 @@
 /* CSS Document */
 
       body{
-         background-image: url("/resources/images/pexels-photo-4173624.jpg");
+         background-image: url('/resources/images/pexels-photo-4173624.jpg');
          background-attachment: fixed;
          background-size: cover;
          color:white;
