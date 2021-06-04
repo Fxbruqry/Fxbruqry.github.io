@@ -146,3 +146,18 @@ a{
     height: 450px;
     width: 500px; 
   }
+  
+  #bilde38{
+  box-shadow: green 50px 20px 50px;
+  margin-right: 300px;
+  margin-bottom: 100px;
+  height: 450px;
+  width: 500px;
+  }
+  #bilde39{
+  box-shadow: blue 50px 20px 50px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  height: 450px;
+  width: 500px;
+  }
